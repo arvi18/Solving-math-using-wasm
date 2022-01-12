@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.jsx": "javascriptreact",
+        "*.js": "javascriptreact",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "strstream": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
